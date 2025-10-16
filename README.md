@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/a/cBIrBzL" />
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/cBIrBzL" data-context="false" ><a href="//imgur.com/a/cBIrBzL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
   
   <b>`プ ロ グ ラ マ`</b>
