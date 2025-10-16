@@ -1,10 +1,16 @@
 <h1 align="center">sou eu, Wanderson</h1>
 <h3 align="center">Estudante de programação mobile android e dev web</h3>
 
-<div>
-<a href="https://github.com/voicesz1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?voicesz1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?voicesz1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=ayu_mirage"/>
 </div>
 
 <h3 align="left">Conecte-se comigo:</h3>
