@@ -1,5 +1,17 @@
-<h1 align="center">sou eu, Wanderson</h1>
-<h3 align="center">Estudante de programação mobile android e dev web</h3>
+<br>
+<br>
+<br>
+
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'ts me <b>Wanderson Sousa</b>
+  </samp>
+</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
